@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/BT_Custompayment",
+    "name": "openmage-module-fostering\/bt_custompayment",
     "type": "magento-module",
-    "license": "Open-Source-Licence-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension adds a new payment method. ",
     "authors": [

@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/BT_Custompayment",
+    "name": "OpenMageModuleFostering\/BT_Custompayment",
     "type": "magento-module",
     "license": "Open-Source-Licence-(OSL)",
     "homepage": "",
     "description": "This extension adds a new payment method. ",
     "authors": [
-    {
-        "name": "BluethinkIT",
-        "email": "pramodgupta.bt@gmail.com"
-    }
-],
+        {
+            "name": "BluethinkIT",
+            "email": "pramodgupta.bt@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
